@@ -9,4 +9,10 @@
  */
 public class Child extends Character{
     
+    private int CHILD_HEALTH;
+    private int CHILD_DAMAGE;
+    
+    public Child(){
+    
+    }
 }

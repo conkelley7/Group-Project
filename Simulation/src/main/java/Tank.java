@@ -9,4 +9,10 @@
  */
 public class Tank extends Character{
     
+    private int TANK_HEALTH;
+    private int TANK_DAMAGE;
+    
+    public Tank(){
+    
+    }
 }

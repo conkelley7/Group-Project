@@ -8,5 +8,10 @@
  * @author chris
  */
 public class Teacher extends Character{
+    private int TEACHER_HEALTH;
+    private int TEACHER_DAMAGE;
     
+    public Teacher(){
+    
+    }
 }

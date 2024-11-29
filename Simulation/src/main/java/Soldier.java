@@ -8,5 +8,10 @@
  * @author chris
  */
 public class Soldier extends Character{
+    private int SOLDIER_HEALTH;
+    private int SOLDIER_DAMAGE;
     
+    public Soldier(){
+    
+    }
 }
