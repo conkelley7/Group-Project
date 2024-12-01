@@ -13,6 +13,6 @@ public class Child extends Character{
     private int CHILD_DAMAGE;
     
     public Child(){
-    
+        System.out.println("hello");
     }
 }
